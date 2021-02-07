@@ -1,4 +1,4 @@
-# verity
+# Verity
 # Testes automatizados e demais questões do teste.
 # Pasta do projeto - verity
 Cenários de testes automatizados
